@@ -1,0 +1,7 @@
+def config
+  {
+    :build_host => "",
+    :build_uri => "",
+    :build_branches => %w()
+  }
+end
